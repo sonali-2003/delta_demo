@@ -1,2 +1,7 @@
 # delta_demo
-just practice github
+
+just practice
+
+# student
+
+sonali paikaray
